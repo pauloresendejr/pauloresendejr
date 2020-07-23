@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 🇧🇷 Born in Jundiai, Brazil <br>
 
-📚 I'm currently learning AWS, :snake: Python, Golang , Kubernets <br>
+📚 I'm currently learning AWS, :snake: Python, Golang , Kubernetes <br>
 
-:question: Ask me about : AWS
+:question: Ask me about : AWS , Bash , PHP
 
 💬 Mess like the best , die like the rest <br>
 
