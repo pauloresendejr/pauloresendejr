@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Paulo! 👋
 
-🤓 Engineer at  [@Nextios](https://github.com/nextios/)  - Previously I worked at [@Totvs](https://github.com/totvs) <br>
+🤓 Engineer at  [@Digio](https://www.digio.com.br/) - Previously I worked at [@Nextios](https://github.com/nextios/) , [@Totvs](https://github.com/totvs) <br>
 
 🇧🇷 Born in Jundiai, Brazil <br>
 
-📚 I'm currently learning AWS, :snake: Python, Golang , Kubernetes <br>
-
-:question: Ask me about : AWS , Bash , PHP
+📚 I'm currently learning/updating AWS, :snake: Python, Golang , Kubernetes <br>
 
 💬 Mess like the best , die like the rest <br>
 
