@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🇧🇷 Born in Jundiai, Brazil <br>
 
-📚 I'm currently learning/updating AWS, :snake: Python, Golang , Kubernetes <br>
+📚 I'm currently learning/updating in AWS, :snake: Python, Golang , Kubernetes <br>
 
 💬 Mess like the best , die like the rest <br>
 
